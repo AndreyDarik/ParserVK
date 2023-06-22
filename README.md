@@ -20,7 +20,7 @@ Features
 
    Clone the repository:
 
-    git clone https://github.com/AndreyDarik/vk-parser.git
+    git clone https://github.com/AndreyDarik/ParserVK.git
 
    Navigate to the project directory:
 
