@@ -66,6 +66,6 @@ This project is licensed under the MIT License.
 
 # 📞Contact
 
-If you have any questions or suggestions, feel free to contact the project maintainer at andreidarik19@gmail.com.
+If you have any questions or suggestions, feel free to contact the project maintainer at andreidarik19@gmail.com or Telegram account @Insid1ous.
 
 We hope VK Parser simplifies your data parsing tasks in the VKontakte social network. Happy parsing!
